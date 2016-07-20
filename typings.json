@@ -1,0 +1,12 @@
+{
+  "name": "koa-github-webhook-handler",
+  "main": "lib/koa-github-webhook-handler.d.ts",
+  "homepage": "https://github.com/TinOo512/koa-github-webhook-handler#readme",
+  "version": "0.1.0",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20160622202520"
+  },
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.2.0+20160623043621"
+  }
+}
